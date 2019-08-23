@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SDSUSBUsers" max_length="40" name="x_cdltd_sdsustudyb_sdsustudybuddy" type="collection">
+        <element label="Tutor" max_length="40" name="are_you_a_tutor" type="boolean"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element display="true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_numer" type="string"/>
+        <element label="RedID" max_length="40" name="redid" type="string"/>
+        <element label="Students" max_length="4000" name="students" reference="sys_user" type="glide_list"/>
+        <element label="First Name" max_length="40" name="tutor" type="string"/>
+        <element label="Tutors" max_length="40" name="tutors" type="boolean"/>
+        <element label="Are You a Tutor" max_length="40" name="u_boolean_2" type="boolean"/>
+        <index name="index">
+            <element name="tutor"/>
+        </index>
+    </element>
+</database>

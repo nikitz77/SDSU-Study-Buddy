@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Session Attendees" max_length="40" name="x_cdltd_sdsustudyb_session_attendees" type="collection">
+        <element label="Session" max_length="32" name="session" reference="x_cdltd_sdsustudyb_sessions" type="reference"/>
+        <element display="true" label="Student" max_length="32" name="student" reference="x_cdltd_sdsustudyb_sdsustudybuddy" type="reference"/>
+        <index name="index">
+            <element name="student"/>
+        </index>
+        <index name="index2">
+            <element name="session"/>
+        </index>
+    </element>
+</database>

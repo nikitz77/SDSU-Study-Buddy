@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2ecf98f3dd5b73007f447f655e6eeaf2" sys_domain="global" table="x_cdltd_sdsustudyb_sdsustudybuddy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>students</element>
+            <position>0</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>c78fc584ddef73007f447f655e6eeaf5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tutor</element>
+            <position>1</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>4f8fc584ddef73007f447f655e6eeaf5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>Name</element>
+            <position>2</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>cf8fc584ddef73007f447f655e6eeaf5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>438fc584ddef73007f447f655e6eeaf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>redid</element>
+            <position>4</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>c38fc584ddef73007f447f655e6eeaf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>5</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>478fc584ddef73007f447f655e6eeaf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_numer</element>
+            <position>6</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>c78fc584ddef73007f447f655e6eeaf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>are_you_a_tutor</element>
+            <position>7</position>
+            <sys_created_by>prajakta.padewar</sys_created_by>
+            <sys_created_on>2019-08-23 20:14:36</sys_created_on>
+            <sys_id>4b8fc584ddef73007f447f655e6eeaf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_sdsustudyb_sdsustudybuddy" sys_domain="global" view="Default view">2ecf98f3dd5b73007f447f655e6eeaf2</sys_ui_section>
+            <sys_updated_by>prajakta.padewar</sys_updated_by>
+            <sys_updated_on>2019-08-23 20:14:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_cdltd_sdsustudyb_sdsustudybuddy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>karenina.zaballa</sys_created_by>
+            <sys_created_on>2019-08-22 22:07:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ecf98f3dd5b73007f447f655e6eeaf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_sdsustudyb_sdsustudybuddy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SDSUStudyBuddy" source="x_cdltd_sdsustudyb">81d008f7dd1b73007f447f655e6eea57</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDSUStudyBuddy">81d008f7dd1b73007f447f655e6eea57</sys_scope>
+            <sys_update_name>sys_ui_section_2ecf98f3dd5b73007f447f655e6eeaf2</sys_update_name>
+            <sys_updated_by>karenina.zaballa</sys_updated_by>
+            <sys_updated_on>2019-08-22 22:07:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

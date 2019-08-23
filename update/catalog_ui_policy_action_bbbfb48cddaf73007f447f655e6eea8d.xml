@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="MakeUsers">be0138bbdd5b73007f447f655e6eeaf6</catalog_item>
+        <catalog_variable>IO:0b643808ddaf73007f447f655e6eea9b</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>karenina.zaballa</sys_created_by>
+        <sys_created_on>2019-08-23 19:06:01</sys_created_on>
+        <sys_id>bbbfb48cddaf73007f447f655e6eea8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>class</sys_name>
+        <sys_package display_value="SDSUStudyBuddy" source="x_cdltd_sdsustudyb">81d008f7dd1b73007f447f655e6eea57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDSUStudyBuddy">81d008f7dd1b73007f447f655e6eea57</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bbbfb48cddaf73007f447f655e6eea8d</sys_update_name>
+        <sys_updated_by>karenina.zaballa</sys_updated_by>
+        <sys_updated_on>2019-08-23 19:06:01</sys_updated_on>
+        <table/>
+        <ui_policy display_value="if tutor, show class table">975ff08cddaf73007f447f655e6eea74</ui_policy>
+        <variable>class</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

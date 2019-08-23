@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Session Attendees</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_cdltd_sdsustudyb_session_attendees</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>karenina.zaballa</sys_created_by>
+        <sys_created_on>2019-08-22 22:36:06</sys_created_on>
+        <sys_id>e836e0b7dd5b73007f447f655e6eeabe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Session Attendees</sys_name>
+        <sys_package display_value="SDSUStudyBuddy" source="x_cdltd_sdsustudyb">81d008f7dd1b73007f447f655e6eea57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDSUStudyBuddy">81d008f7dd1b73007f447f655e6eea57</sys_scope>
+        <sys_update_name>sys_db_object_e836e0b7dd5b73007f447f655e6eeabe</sys_update_name>
+        <sys_updated_by>karenina.zaballa</sys_updated_by>
+        <sys_updated_on>2019-08-22 22:36:06</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_cdltd_sdsustudyb.session_attendees_user" name="x_cdltd_sdsustudyb.session_attendees_user">ce5664b7dd5b73007f447f655e6eea50</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

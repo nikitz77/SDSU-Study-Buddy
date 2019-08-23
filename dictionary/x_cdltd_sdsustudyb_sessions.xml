@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SDSUSBSessions" max_length="40" name="x_cdltd_sdsustudyb_sessions" type="collection">
+        <element label="Room Number" max_length="40" name="room_number" type="string"/>
+        <element label="Session Date" max_length="40" name="session_date" type="glide_date_time"/>
+        <element display="true" label="Session Topic" max_length="40" name="session_topic" type="string"/>
+        <element active="false" label="Time" max_length="40" name="time" type="glide_time"/>
+        <element label="Tutor" max_length="32" name="tutor" reference="x_cdltd_sdsustudyb_sdsustudybuddy" type="reference"/>
+        <index name="index">
+            <element name="tutor"/>
+        </index>
+    </element>
+</database>

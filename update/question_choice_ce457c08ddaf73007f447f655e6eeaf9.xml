@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>200</order>
+        <question display_value="Select a class">0b643808ddaf73007f447f655e6eea9b</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>karenina.zaballa</sys_created_by>
+        <sys_created_on>2019-08-23 18:20:00</sys_created_on>
+        <sys_id>ce457c08ddaf73007f447f655e6eeaf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Physics</sys_name>
+        <sys_package display_value="SDSUStudyBuddy" source="x_cdltd_sdsustudyb">81d008f7dd1b73007f447f655e6eea57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDSUStudyBuddy">81d008f7dd1b73007f447f655e6eea57</sys_scope>
+        <sys_update_name>question_choice_ce457c08ddaf73007f447f655e6eeaf9</sys_update_name>
+        <sys_updated_by>karenina.zaballa</sys_updated_by>
+        <sys_updated_on>2019-08-23 18:20:00</sys_updated_on>
+        <text>Physics</text>
+        <value>physics</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ce457c08ddaf73007f447f655e6eeaf9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ce457c08ddaf73007f447f655e6eeaf9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>karenina.zaballa</sys_created_by>
+        <sys_created_on>2019-08-23 18:20:00</sys_created_on>
+        <sys_id>d455bc08ddaf73007f447f655e6eea00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>karenina.zaballa</sys_updated_by>
+        <sys_updated_on>2019-08-23 18:20:00</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>ce457c08ddaf73007f447f655e6eeaf9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>karenina.zaballa</sys_created_by>
+        <sys_created_on>2019-08-23 18:20:00</sys_created_on>
+        <sys_id>9c557c08ddaf73007f447f655e6eeafe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>karenina.zaballa</sys_updated_by>
+        <sys_updated_on>2019-08-23 18:20:00</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
